@@ -1,0 +1,3 @@
+C:/Users/ismai/Downloads/Software Engineering/SoftwareEngineeringLab/Lab6/thermostat/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/ismai/Downloads/Software Engineering/SoftwareEngineeringLab/Lab6/thermostat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ismai/Downloads/Software Engineering/SoftwareEngineeringLab/Lab6/thermostat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
